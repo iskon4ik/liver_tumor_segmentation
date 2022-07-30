@@ -11,6 +11,6 @@ For now it's just a jupyter notebook with:
 
 After understanding that this problem will take too much time to train a model from scratch, I've decided my next steps will be:
 - refactor the code
-- use pretrained ResNet layers UNET's encoder
+- use pretrained ResNet layers for UNET's encoder
 - train it on the whole dataset of scans
 - maybe more experiments with loss function and over/undersampling duo to big class imbalance and importance of class 2
